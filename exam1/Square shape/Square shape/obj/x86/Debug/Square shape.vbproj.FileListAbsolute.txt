@@ -1,0 +1,20 @@
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\bin\Debug\Square shape.exe
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\bin\Debug\Square shape.pdb
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\bin\Debug\Square shape.xml
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\obj\x86\Debug\Square_shape.Form1.resources
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\obj\x86\Debug\Square_shape.Resources.resources
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\obj\x86\Debug\Square shape.exe
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\obj\x86\Debug\Square shape.xml
+c:\users\max man\documents\visual studio 2010\Projects\unit4\Square shape\Square shape\obj\x86\Debug\Square shape.pdb
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\obj\x86\Debug\Square shape.exe
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\obj\x86\Debug\Square shape.xml
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\obj\x86\Debug\Square shape.pdb
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\bin\Debug\Square shape.exe
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\bin\Debug\Square shape.pdb
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\bin\Debug\Square shape.xml
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\obj\x86\Debug\Square_shape.Form1.resources
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\obj\x86\Debug\Square_shape.Resources.resources
+C:\Users\MAX MAN\Desktop\semo\is330 part1\exam1\Square shape\Square shape\obj\x86\Debug\Square shape.vbproj.GenerateResource.Cache
